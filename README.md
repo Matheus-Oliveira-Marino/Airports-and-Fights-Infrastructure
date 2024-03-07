@@ -16,6 +16,24 @@ Listagem de Voos: Visualize todos os voos que partem de um determinado aeroporto
 ## 🚀 Tecnologias Utilizadas
 O projeto é desenvolvido em `Java` e utiliza a estrutura de dados de `Listas Encadeadas` para implementar a malha aérea de forma eficiente e escalável.
 
+
+## Requisitos do Sistema 
+
+1. Certifique-se de ter o `Java JDK` instalado em seu sistema. Link para [download](https://www.oracle.com/java/technologies/downloads/).
+
+     1.1 Instalação __*Windows 10*__: [Link do tutorial](https://www.youtube.com/watch?v=AUL--F5Wdh8).
+
+    1.2 Instalação __*Windows 11*__: [Link do tutorial](https://www.youtube.com/watch?v=krGadRGdESQ).
+
+    1.3 Instalação __*Linux 22.04 LTS*__: [Link do tutorial](https://www.youtube.com/watch?v=vVrIDJ--GOA).
+
+
+<br>
+
+2. IDE para execução, como [VSCode](https://code.visualstudio.com/) ou [IntelliJ](https://www.jetbrains.com/idea/download/?section=windows).
+
+<br>
+
 ## 🔧 Como Usar
 
 1. Clone este repositório ou faça download do projeto completo.
@@ -48,5 +66,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-
-Este projeto está licenciado sob a [MIT LICENSE](). Consulte o arquivo para obter detalhes.
+## Licença
+Este projeto está licenciado sob a [MIT LICENSE](https://github.com/Matheus-Oliveira-Marino/Airports-and-Fights-Infrastructure/blob/main/LICENSE). Consulte o arquivo para obter detalhes.
