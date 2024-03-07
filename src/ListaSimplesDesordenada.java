@@ -65,6 +65,7 @@ public class ListaSimplesDesordenada <X>
          * Define o dado a ser armazenado no nó.
          * @param i Dado a ser armazenado no nó.
          */
+        @SuppressWarnings("unused")
         public void setInfo (X i)
         {
             this.info = i;
@@ -99,6 +100,7 @@ public class ListaSimplesDesordenada <X>
      * @param x Objeto a ser clonado.
      * @return Cópia do objeto clonado.
      */
+    @SuppressWarnings("unchecked")
     private X meuCloneDeX (X x)
     {
         // Declaração e inicialização de uma variável 'ret' 
@@ -492,6 +494,7 @@ public class ListaSimplesDesordenada <X>
      * @param obj O objeto a ser comparado.
      * @return true se o objeto passado é igual a esta lista, false caso contrário.
      */
+    @SuppressWarnings({ "unused", "unchecked" })
     public boolean equals(Object obj) {
         if (this == obj) // Verifica se os objetos são idênticos (mesma referência na memória).
             return true;
@@ -590,6 +593,7 @@ public class ListaSimplesDesordenada <X>
      * Cria e retorna uma cópia desta lista.
      * @return Uma cópia desta lista.
      */
+    @SuppressWarnings({ "unchecked", "rawtypes" })
     public Object clone ()
     {
         ListaSimplesDesordenada<X> ret=null;
@@ -789,7 +793,10 @@ public class ListaSimplesDesordenada <X>
     public ListaSimplesDesordenada<X> exer7(ListaSimplesDesordenada<X> outra)
     {
         ListaSimplesDesordenada<X> nova = new ListaSimplesDesordenada<>();
+
+        @SuppressWarnings("unused")
         No atual = this.primeiro;
+        
         No outro = outra.primeiro;
 
         try

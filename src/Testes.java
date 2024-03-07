@@ -13,6 +13,7 @@ public class Testes
      *
      * @param args Os argumentos da linha de comando.
      */
+    @SuppressWarnings("unused")
     public static void main(String[] args)
     {
         try
