@@ -38,7 +38,7 @@ O projeto é desenvolvido em `Java` e utiliza a estrutura de dados de `Listas En
 
 1. Clone este repositório ou faça download do projeto completo.
 
-2. No arquivo `Programa.java`, Compile e execute clicando em `run`.
+2. No arquivo `Programa.java`, compile e execute clicando em `run`.
 
 3. Siga as instruções para cadastrar aeroportos, adicionar voos, remover voos ou listar voos.
 
