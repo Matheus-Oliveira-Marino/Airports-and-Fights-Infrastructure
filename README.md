@@ -42,10 +42,6 @@ O projeto é desenvolvido em `Java` e utiliza a estrutura de dados de `Listas En
 
 3. Siga as instruções para cadastrar aeroportos, adicionar voos, remover voos ou listar voos.
 
-## ✨ Autores
-
-* Matheus Marino
-* Gabriel Caumo
 
 ## 🏃‍♂️ Primeiros Passos
 
