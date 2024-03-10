@@ -51,7 +51,7 @@ O projeto é desenvolvido em `Java` e utiliza a estrutura de dados de `Listas En
 
 Bem-vindo ao mundo do Java no VS Code. Aqui está um guia para ajudá-lo a começar a escrever código Java no Visual Studio Code.
 
-## 🕮 Estrutura de Pastas
+##  📁  Estrutura de Pastas
 
 O espaço de trabalho contém duas pastas por padrão, onde:
 
