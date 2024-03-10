@@ -17,7 +17,7 @@ Listagem de Voos: Visualize todos os voos que partem de um determinado aeroporto
 O projeto é desenvolvido em `Java` e utiliza a estrutura de dados de `Listas Encadeadas` para implementar a malha aérea de forma eficiente e escalável.
 
 
-## :exclamation: Requisitos do Sistema 
+##:exclamation: Requisitos do Sistema 
 
 1. Certifique-se de ter o `Java JDK` instalado em seu sistema. Link para [download](https://www.oracle.com/java/technologies/downloads/).
 
@@ -47,11 +47,11 @@ O projeto é desenvolvido em `Java` e utiliza a estrutura de dados de `Listas En
 * Matheus Marino
 * Gabriel Caumo
 
-## Primeiros Passos
+## 🏃‍♂️ Primeiros Passos
 
 Bem-vindo ao mundo do Java no VS Code. Aqui está um guia para ajudá-lo a começar a escrever código Java no Visual Studio Code.
 
-## Estrutura de Pastas
+## 🕮 Estrutura de Pastas
 
 O espaço de trabalho contém duas pastas por padrão, onde:
 
@@ -62,9 +62,9 @@ Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` po
 
 > Se você deseja personalizar a estrutura de pastas, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
 
-## Gerenciamento de Dependências
+## 🔄 Gerenciamento de Dependências
 
 A visualização `JAVA PROJECTS` permite que você gerencie suas dependências. Mais detalhes podem ser encontrados [aqui](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-## Licença
+## 📜 Licença
 Este projeto está licenciado sob a [MIT LICENSE](https://github.com/Matheus-Oliveira-Marino/Airports-and-Fights-Infrastructure/blob/main/LICENSE). Consulte o arquivo para obter detalhes.
